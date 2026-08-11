@@ -1,0 +1,109 @@
+<svg width="1600" height="1040" viewBox="0 0 1600 1040" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#FFF6EC"/>
+<stop offset="100%" stop-color="#FCD9B0"/>
+</linearGradient>
+<radialGradient id="glow" cx="50%" cy="20%" r="70%">
+<stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9"/>
+<stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</radialGradient>
+</defs>
+
+<rect x="0" y="0" width="1600" height="1040" fill="url(#bgGrad)"/>
+<rect x="0" y="0" width="1600" height="1040" fill="url(#glow)"/>
+
+<g fill="#E8A15C" opacity="0.35">
+<circle cx="280" cy="165" r="4.5"/><circle cx="340" cy="153" r="4.5"/><circle cx="400" cy="146" r="4.5"/><circle cx="460" cy="160" r="4.5"/>
+<circle cx="520" cy="141" r="4.5"/><circle cx="580" cy="155" r="4.5"/><circle cx="640" cy="137" r="4.5"/><circle cx="700" cy="150" r="4.5"/>
+<circle cx="760" cy="129" r="4.5"/><circle cx="820" cy="146" r="4.5"/><circle cx="880" cy="136" r="4.5"/><circle cx="940" cy="155" r="4.5"/>
+<circle cx="1000" cy="141" r="4.5"/><circle cx="1060" cy="129" r="4.5"/><circle cx="1120" cy="146" r="4.5"/><circle cx="1180" cy="136" r="4.5"/>
+<circle cx="1240" cy="153" r="4.5"/><circle cx="1300" cy="141" r="4.5"/>
+<circle cx="300" cy="212" r="4.5"/><circle cx="375" cy="207" r="4.5"/><circle cx="470" cy="217" r="4.5"/><circle cx="565" cy="202" r="4.5"/>
+<circle cx="660" cy="212" r="4.5"/><circle cx="755" cy="197" r="4.5"/><circle cx="850" cy="212" r="4.5"/><circle cx="945" cy="202" r="4.5"/>
+<circle cx="1040" cy="212" r="4.5"/><circle cx="1135" cy="197" r="4.5"/><circle cx="1230" cy="207" r="4.5"/>
+<circle cx="350" cy="259" r="4.5"/><circle cx="445" cy="264" r="4.5"/><circle cx="540" cy="254" r="4.5"/><circle cx="635" cy="269" r="4.5"/>
+<circle cx="730" cy="254" r="4.5"/><circle cx="825" cy="264" r="4.5"/><circle cx="920" cy="254" r="4.5"/><circle cx="1015" cy="269" r="4.5"/>
+<circle cx="1110" cy="254" r="4.5"/><circle cx="1200" cy="264" r="4.5"/>
+</g>
+
+<path d="M95 610 Q280 445 515 517 Q705 575 800 470 Q940 352 1105 447 Q1270 517 1460 423" stroke="#D2691E" stroke-width="2" fill="none" stroke-dasharray="9 12" opacity="0.5"/>
+
+<g>
+<circle cx="353" cy="353" r="56" fill="#FFFFFF" stroke="#D2691E" stroke-width="4.5"/>
+<circle cx="353" cy="353" r="40" fill="#C8102E"/>
+<text x="353" y="365" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold" fill="#FFFFFF">CA</text>
+<line x1="353" y1="409" x2="353" y2="482" stroke="#D2691E" stroke-width="3.5" stroke-dasharray="7 7"/>
+</g>
+
+<g>
+<circle cx="1317" cy="282" r="56" fill="#FFFFFF" stroke="#D2691E" stroke-width="4.5"/>
+<circle cx="1317" cy="282" r="40" fill="#012169"/>
+<text x="1317" y="294" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold" fill="#FFFFFF">UK</text>
+<line x1="1317" y1="338" x2="1317" y2="434" stroke="#D2691E" stroke-width="3.5" stroke-dasharray="7 7"/>
+</g>
+
+<g>
+<circle cx="1424" cy="541" r="56" fill="#FFFFFF" stroke="#D2691E" stroke-width="4.5"/>
+<circle cx="1424" cy="541" r="40" fill="#00247D"/>
+<text x="1424" y="553" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#FFFFFF">AU</text>
+<line x1="1424" y1="597" x2="1424" y2="670" stroke="#D2691E" stroke-width="3.5" stroke-dasharray="7 7"/>
+</g>
+
+<g>
+<circle cx="1506" cy="776" r="52" fill="#FFFFFF" stroke="#D2691E" stroke-width="4.5"/>
+<circle cx="1506" cy="776" r="36" fill="#00247D"/>
+<text x="1506" y="787" text-anchor="middle" font-family="Arial" font-size="21" font-weight="bold" fill="#FFFFFF">NZ</text>
+<line x1="1482" y1="741" x2="1412" y2="635" stroke="#D2691E" stroke-width="3.5" stroke-dasharray="7 7"/>
+</g>
+
+<g>
+<circle cx="1176" cy="776" r="47" fill="#FFFFFF" stroke="#D2691E" stroke-width="4.5"/>
+<circle cx="1176" cy="776" r="31" fill="#CE1126"/>
+<text x="1176" y="786" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#FFFFFF">PNG</text>
+<line x1="1176" y1="745" x2="1176" y2="682" stroke="#D2691E" stroke-width="3.5" stroke-dasharray="7 7"/>
+</g>
+
+<g>
+<circle cx="777" cy="282" r="52" fill="#FFFFFF" stroke="#D2691E" stroke-width="4.5"/>
+<circle cx="777" cy="282" r="36" fill="#007A4D"/>
+<text x="777" y="293" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">RSA</text>
+<line x1="777" y1="334" x2="777" y2="434" stroke="#D2691E" stroke-width="3.5" stroke-dasharray="7 7"/>
+</g>
+
+<g>
+<circle cx="600" cy="400" r="47" fill="#FFFFFF" stroke="#D2691E" stroke-width="4.5"/>
+<circle cx="600" cy="400" r="31" fill="#0097D6"/>
+<text x="600" y="410" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#FFFFFF">BWA</text>
+<line x1="635" y1="428" x2="706" y2="470" stroke="#D2691E" stroke-width="3.5" stroke-dasharray="7 7"/>
+</g>
+
+<g transform="translate(600,600)">
+<ellipse cx="0" cy="169" rx="136" ry="24" fill="#D2691E" opacity="0.15"/>
+<path d="M-122 141 A122 122 0 0 1 122 141 L136 155 A4.7 4.7 0 0 1 131 165 L-131 165 A4.7 4.7 0 0 1 -136 155 Z" fill="#FFFFFF" stroke="#E07B2A" stroke-width="4.5"/>
+<rect x="-33" y="155" width="66" height="19" rx="4.7" fill="#FFFFFF" stroke="#E07B2A" stroke-width="4.5"/>
+<circle cx="0" cy="19" r="14" fill="#E07B2A"/>
+</g>
+
+<g transform="translate(1012,635)">
+<rect x="-89" y="-108" width="178" height="216" rx="9.4" fill="#FFFFFF" stroke="#E07B2A" stroke-width="4.5"/>
+<line x1="-56" y1="-66" x2="56" y2="-66" stroke="#F0C08A" stroke-width="7"/>
+<line x1="-56" y1="-33" x2="56" y2="-33" stroke="#F0C08A" stroke-width="7"/>
+<line x1="-56" y1="0" x2="56" y2="0" stroke="#F0C08A" stroke-width="7"/>
+<line x1="-56" y1="33" x2="19" y2="33" stroke="#F0C08A" stroke-width="7"/>
+<circle cx="47" cy="33" r="21" fill="none" stroke="#3E9B4F" stroke-width="7"/>
+<path d="M35 33 L45 42 L61 21" stroke="#3E9B4F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-56" y1="70" x2="56" y2="70" stroke="#F0C08A" stroke-width="7"/>
+</g>
+
+<g transform="translate(282,706)" opacity="0.9">
+<circle cx="0" cy="0" r="61" fill="#FFFFFF" stroke="#E07B2A" stroke-width="4.5"/>
+<circle cx="0" cy="0" r="42" fill="none" stroke="#E07B2A" stroke-width="3.5"/>
+<line x1="0" y1="-42" x2="0" y2="42" stroke="#E07B2A" stroke-width="3.5"/>
+<path d="M-42 0 Q0 -28 42 0 Q0 28 -42 0" fill="none" stroke="#E07B2A" stroke-width="3.5"/>
+</g>
+
+<text x="282" y="847" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#8A4B12">Global reach</text>
+<text x="600" y="828" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#8A4B12">Verified writers</text>
+<text x="1012" y="828" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#8A4B12">EA compliant</text>
+</svg>
